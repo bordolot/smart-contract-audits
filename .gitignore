@@ -2,4 +2,11 @@
 # ignore all internal variables
 .env
 
+# ignore python venv
+venv-smart-contract-audits/
 
+# ignore all compiled files
+compiled/
+
+# and the rest
+.vscode
