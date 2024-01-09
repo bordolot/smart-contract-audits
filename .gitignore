@@ -1,4 +1,7 @@
 
+# ignore all original sources
+data_to_audit
+
 # ignore all internal variables
 .env
 
