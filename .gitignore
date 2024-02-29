@@ -2,8 +2,8 @@
 
 
 # ignore all original sources
-data_to_audit
-foundry_env
+data_to_audit/
+foundry_env/
 
 # ignore all internal variables
 .env

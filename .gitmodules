@@ -1,0 +1,3 @@
+[submodule "2024-02-Wise/foundry_env/lib/forge-std"]
+	path = 2024-02-Wise/foundry_env/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
